@@ -86,7 +86,7 @@ discord-moderation-bot-nodejs/
 
 ## 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/discord-moderation-bot-nodejs
+git clone https://github.com/Pusri27/discord-moderation-bot-nodejs
 cd discord-moderation-bot-nodejs
 ```
 
